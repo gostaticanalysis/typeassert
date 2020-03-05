@@ -1,3 +1,4 @@
+This repository had merged to https://github.com/gostaticanalysis/forcetypeassert.
 # typeassert
 
 [![godoc.org][godoc-badge]][godoc]
